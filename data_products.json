@@ -1,0 +1,22 @@
+[
+    {
+        "Product": "Laptop",
+        "Price": "1000",
+        "Quantity": "5"
+    },
+    {
+        "Product": "Mouse",
+        "Price": "25",
+        "Quantity": "50"
+    },
+    {
+        "Product": "Keyboard",
+        "Price": "45",
+        "Quantity": "30"
+    },
+    {
+        "Product": "Monitor",
+        "Price": "150",
+        "Quantity": "10"
+    }
+]
